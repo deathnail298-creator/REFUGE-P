@@ -1,0 +1,110 @@
+# REFUGE-P (Hard Stop)
+## Phase 0 — Architecture Overview
+
+### Purpose
+
+This section defines the high-level physical architecture of REFUGE-P. It establishes what the system is, how it exists after emplacement, and which architectural characteristics are invariant across all Phase 0 and Phase 1 interpretations.
+
+This section does not specify fabrication details, materials optimization, or flight-ready hardware.
+
+---
+
+## Architectural Summary
+
+REFUGE-P is a passive, subsurface emergency refuge created through kinetic penetrator emplacement. The system consists of a structurally overbuilt penetrator body that forms a crush-survivable internal void beneath the surface.
+
+The architecture prioritizes survivability, simplicity, and misuse resistance over performance, comfort, or endurance. REFUGE-P remains usable under imperfect placement, partial burial, tilt, and localized structural damage.
+
+---
+
+## Major Architectural Elements
+
+### Penetrator Body
+
+The penetrator body serves as both the delivery structure and the permanent load-bearing shell.
+
+Key characteristics include:
+- Monolithic, high-strength outer structure  
+- Geometry favoring axial load paths and distributed stress  
+- No reliance on deployable or articulated external components  
+- Passive structural behavior without active control  
+
+The penetrator body is expected to experience damage during emplacement and remains functional despite deformation.
+
+---
+
+### Internal Refuge Volume
+
+The internal refuge volume is a fixed, enclosed void sized only for temporary suited occupancy.
+
+Characteristics include:
+- No pressure-retention requirement  
+- No internal environmental control systems  
+- Tolerance for partial volume loss due to deformation  
+
+The internal volume exists solely to allow crew to physically occupy, stabilize, and communicate during the emergency decision window.
+
+---
+
+### Access Interface
+
+REFUGE-P includes a single primary access interface designed for use by suited crew.
+
+Characteristics include:
+- Usability after burial, tilt, or surface disruption  
+- No requirement for precision alignment  
+- No powered actuation required  
+
+Access simplicity and survivability are prioritized over sealing performance or ease of use.
+
+---
+
+### Structural Survivability Features
+
+Survivability is achieved through passive architectural choices, including:
+- Overbuilt geometry  
+- Load-distributing internal shapes  
+- Material selection favoring ductile failure modes  
+
+No active shock absorption, isolation, or adaptive systems are required.
+
+---
+
+### External Identification and Recovery Features
+
+REFUGE-P may include passive external features to support discovery and recovery, such as:
+- Distinctive geometry  
+- Surface markers  
+- Interfaces for external locator systems  
+
+These features do not provide power, communications, or self-rescue capability.
+
+---
+
+## Architectural Invariants
+
+The following characteristics are non-negotiable for all Phase 0 and Phase 1 implementations:
+
+- Passive operation only  
+- No moving parts required for survival function  
+- No life-support systems  
+- No power generation or distribution  
+- No pressurization requirement  
+- No dependence on precise emplacement  
+- No post-emplacement assembly or deployment  
+
+Any deviation from these invariants requires explicit phase escalation.
+
+---
+
+## Architecture Boundary Statement
+
+REFUGE-P is intentionally static and limited. Its value is derived from structural robustness and subsurface protection rather than system complexity or operational capability.
+
+REFUGE-P is not designed to be upgraded, expanded, repurposed, or adapted for extended use. It is an endpoint, not a platform.
+
+---
+
+### Plain-English Summary
+
+REFUGE-P is a strong underground structure that is placed into the ground and left there as emergency infrastructure. It protects a small internal space even if it is damaged, tilted, or partially buried. The design avoids power, moving parts, or life-support systems and relies entirely on strength and geometry to work once.
