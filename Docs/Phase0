@@ -1,0 +1,90 @@
+# Phase 0 — Mission Definition & System Boundaries
+
+## Problem Definition
+
+Lunar surface operations generate persistent nuisance dust from routine activity such as crew movement, rover traffic, handling operations, and post-event drift. This dust remains mobile near the surface and accumulates in activity zones where it interferes with operations, maintenance, and downstream processing systems.
+
+Existing mitigation approaches focus on suppression, cleaning, or active removal. These approaches introduce power demand, moving parts, sensors, and operational coupling that increase system complexity and failure modes.
+
+The unresolved problem addressed here is whether already-airborne dust can be intercepted and contained using a passive, infrastructure-grade system that introduces no additional power, sensing, or operational dependencies.
+
+## Phase 0 Objective
+
+The Phase 0 objective is to establish that a passive dust interception and collection unit is physically plausible, clearly bounded, and suitable for fabrication without unresolved technical or programmatic dependencies.
+
+Phase 0 does not seek to prove performance, efficiency, or operational value.
+
+## System Overview
+
+The GEMS Dust Capture & Feed Unit (DCF) is a static, always-open structure that intercepts dust already in motion and passively guides it into a gravity-fed hopper for manual transfer to downstream systems.
+
+The system operates continuously with no power, sensors, software, control logic, or moving parts.
+
+## Operating Assumptions
+
+* Dust targeted by DCF is already airborne or in motion due to routine surface activity.
+* Dust interception occurs near the surface in localized activity zones.
+* Manual servicing by suited crew is available at low frequency.
+* Downstream systems exist to receive, process, or dispose of collected dust.
+
+## System Boundaries
+
+DCF system boundaries are explicitly limited to:
+
+* Passive dust interception geometry
+* Gravity-fed dust collection hopper
+* Manual handoff point for collected material
+
+DCF excludes:
+
+* Active dust generation control
+* Dust suppression or plume mitigation
+* Dust cleaning of surfaces, suits, or mechanisms
+* Any powered behavior, sensing, automation, or feedback
+
+## Functional Description
+
+Dust already in motion encounters the always-open capture geometry. The geometry presents a preferential dead-end path that increases the likelihood of dust entering the structure rather than continuing along the surface.
+
+Once inside the capture volume, dust settles under gravity into a hopper. No valves, flaps, or actuators regulate flow. Dust remains stored until manually removed.
+
+## Interfaces and Ownership
+
+DCF terminates at a manual dust handoff point. Ownership of all downstream requirements, including:
+
+* Particle screening
+* Purification or sterilization
+* Metering or transport
+* Storage or disposal
+
+rests entirely with the downstream system.
+
+## Environmental Considerations
+
+* Operation is limited to airless or near-airless extraterrestrial environments.
+* Thermal behavior is passive and dictated by material selection and geometry.
+* Dust accumulation on external surfaces is not considered a failure mode.
+
+## Non-Claims
+
+DCF makes no claims regarding:
+
+* Capture efficiency or throughput
+* Particle size distribution or purity
+* Reduction of dust creation rates
+* Area cleanliness guarantees
+* Hazard classification or certification
+
+## Phase 0 Success Criteria
+
+Phase 0 is considered successful if:
+
+* Passive interception geometry is physically plausible
+* Gravity-fed hopper behavior is credible without active elements
+* System boundaries prevent scope creep and entanglement with downstream systems
+
+No performance thresholds are defined at Phase 0.
+
+## Plain-English Summary
+
+This system is a passive structure that catches dust already moving across the surface and lets it settle into a container. It does not stop dust from being created or actively remove dust from the environment. Its purpose at this stage is only to show that such a simple structure can plausibly exist and be built.
