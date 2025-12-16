@@ -1,0 +1,149 @@
+# REFUGE-P (Hard Stop)
+## Phase 1 — Instrumentation & Data
+
+### Purpose
+
+This section defines the data collected during Phase 1 testing, the instrumentation used to collect it, and the limits placed on measurement scope. The intent is to gather only the data required to validate Phase 0 assumptions and Phase 1 objectives without drifting into optimization, certification, or flight qualification.
+
+Phase 1 data exists to bound feasibility, not to perfect performance.
+
+---
+
+## Instrumentation Philosophy
+
+Instrumentation used in Phase 1 is:
+- Minimal  
+- Temporary  
+- Non-functional  
+- Non-intrusive  
+
+Instrumentation must observe failure, not prevent it. If a sensor meaningfully alters behavior, it is invalid.
+
+---
+
+## Required Measurement Categories
+
+### 1. Structural Deformation and Void Preservation
+
+**Purpose:**  
+Determine whether a minimum usable internal void volume remains after representative damage.
+
+**Representative data:**
+- Strain or deformation measurements at critical structural locations  
+- Post-test geometry mapping of the internal volume  
+- Identification of collapse onset and progression  
+
+**Outcome:**  
+Binary determination of usable versus non-usable internal volume under tested conditions.
+
+---
+
+### 2. Access Achievability Metrics
+
+**Purpose:**  
+Determine whether suited crew can physically enter and exit under degraded conditions.
+
+**Representative data:**
+- Entry and exit force or effort  
+- Obstruction type and clearance effort  
+- Time-to-entry and time-to-exit under stress  
+
+**Outcome:**  
+Clear identification of access success and failure thresholds.
+
+---
+
+### 3. Human Occupancy Validation (Suited)
+
+**Purpose:**  
+Validate that suited crew can physically occupy the refuge long enough to perform emergency decision-making tasks.
+
+**Representative data:**
+- Ability to stabilize body position  
+- Ability to maintain position without progressive collapse  
+- Ability to communicate using suit systems  
+
+**Outcome:**  
+Confirmation that short-duration occupancy is physically achievable.
+
+---
+
+### 4. Time-Window Viability Indicators (2–4 Hours)
+
+**Purpose:**  
+Confirm that no condition forces abandonment prior to the intended time window.
+
+**Representative data:**
+- Passive temperature trends  
+- Qualitative crew fatigue indicators  
+- Observation of internal condition stability  
+
+**Outcome:**  
+Evidence that the refuge does not actively degrade survivability during the decision window.
+
+---
+
+### 5. Failure Boundary Documentation
+
+**Purpose:**  
+Explicitly identify the conditions under which REFUGE-P stops functioning.
+
+**Representative data:**
+- Deformation levels preventing entry  
+- Internal volume loss thresholds forcing abandonment  
+- Structural instability indicators  
+
+**Outcome:**  
+Clear, test-backed failure limits.
+
+---
+
+## Explicitly Excluded Measurements
+
+Phase 1 does not collect data related to:
+- Long-term thermal equilibrium  
+- Life-support performance  
+- Atmospheric retention or leakage  
+- Power usage  
+- Crew comfort or ergonomics  
+- Geometry or material optimization  
+- Mission-level survivability probability  
+
+Any test designed around these metrics is outside Phase 1 scope.
+
+---
+
+## Instrumentation Constraints
+
+All instrumentation must:
+- Be removable after testing  
+- Not provide functional capability  
+- Not be required for system operation  
+- Fail safely without invalidating results  
+
+Instrumentation loss or damage during testing is acceptable.
+
+---
+
+## Data Interpretation Rules
+
+- Binary outcomes are preferred over continuous metrics  
+- Degraded success is valid success  
+- Failure discovery is a positive result  
+- Ambiguous data triggers test redesign, not assumption revision  
+
+---
+
+## Phase 1 Data Sufficiency (Preview)
+
+Phase 1 data collection is sufficient when:
+- Structural survivability limits are bounded  
+- Access success and failure thresholds are known  
+- Occupancy feasibility is demonstrated or disproven  
+- Failure modes are clearly documented  
+
+---
+
+### Plain-English Summary
+
+Phase 1 measurements focus on whether the refuge can still be entered, occupied briefly, and exited after it has been damaged. Only basic structural, access, and usability data are collected, and comfort or long-term performance is ignored. The goal is to clearly see where the design works and where it stops working.
