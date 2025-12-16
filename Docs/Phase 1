@@ -1,0 +1,101 @@
+# Phase 1 — Test Scope, Validation Plan, and Kill Criteria
+
+## Phase 1 Objective
+
+Phase 1 evaluates whether the GEMS Dust Capture & Feed Unit (DCF) provides sufficient practical value to justify further development. The focus is limited to validating passive dust interception behavior, survivability, and manual servicing characteristics under representative conditions.
+
+Phase 1 does not seek to optimize performance or demonstrate operational readiness.
+
+## Test Philosophy
+
+Phase 1 testing prioritizes realism, simplicity, and failure discovery over optimization. Tests are designed to answer whether the concept is viable at all, not how good it could become.
+
+Active systems, automation, and performance enhancement are intentionally excluded to preserve the passive nature of the system.
+
+## Test Scope (Included)
+
+The following activities are within Phase 1 scope:
+
+### Passive Capture Behavior
+
+* Qualitative and quantitative assessment of dust interception using passive geometry
+* Evaluation across representative placement scenarios (corridors, activity zones, post-event drift regions)
+* Observation of dust bypass versus capture under repeatable exposure conditions
+
+### Hopper Behavior
+
+* Hopper fill characteristics under gravity-fed conditions
+* Identification of bridging, rat-holing, or clogging tendencies
+* Sensitivity to geometry, surface finish, and hopper angle
+
+### Survivability and Wear
+
+* Abrasion and erosion of capture surfaces and internal flow paths
+* Assessment of dust-induced wear on sacrificial elements
+* Verification that wear does not create secondary failure modes
+
+### Manual Servicing
+
+* Time and steps required for hopper emptying
+* Glove compatibility and ergonomics
+* Spill risk during servicing and reseating
+
+## Test Scope (Explicitly Excluded)
+
+The following are explicitly out of scope for Phase 1:
+
+* Active suction, fans, compressors, or electrostatic capture
+* Sensors, automation, feedback control, or software
+* Continuous transfer or metered delivery systems
+* Dust suppression, plume mitigation, or surface cleaning claims
+* Long-duration unattended operation demonstrations
+
+## Test Environment Assumptions
+
+* Testing may be conducted in terrestrial analog environments using representative particulate materials
+* Vacuum or partial-vacuum testing may be limited by available facilities
+* Reduced gravity behavior may be approximated analytically or through scaled geometry rather than direct simulation
+
+Any test not feasible due to equipment or facility constraints is explicitly deferred without penalty.
+
+## Metrics and Observables
+
+Phase 1 relies on practical, low-instrumentation metrics:
+
+* Mass of dust captured per exposure event or unit time
+* Fraction of dust bypassing capture geometry
+* Frequency of clogging or bridging events
+* Time required for manual servicing
+* Observable wear or material loss on sacrificial surfaces
+
+Metrics are used for comparative assessment rather than absolute performance claims.
+
+## Data Handling
+
+Data collected during Phase 1 is intended to support go/no-go decisions only. No extrapolation to operational performance or scaling is permitted.
+
+## Termination / Kill Criteria
+
+Phase 1 testing is terminated if any of the following conditions are met:
+
+* Persistent clogging or bridging cannot be resolved through passive geometry changes within a limited iteration count
+* Capture effectiveness is insufficient to justify system footprint or emplacement effort
+* Manual servicing imposes unacceptable time, spill risk, or crew burden
+* Wear rates require complex mitigation beyond simple sacrificial components
+
+Failure to meet any one criterion is sufficient to end development.
+
+## Phase 1 Success Criteria
+
+Phase 1 is considered successful if:
+
+* Passive geometry demonstrates repeatable dust interception
+* Hopper behavior is manageable without active intervention
+* Manual servicing is straightforward and reliable
+* Wear mechanisms are predictable and addressable through simple design choices
+
+Success at Phase 1 permits consideration of downstream integration or commercialization planning, but does not imply readiness for deployment.
+
+## Plain-English Summary
+
+Phase 1 checks whether a simple passive dust catcher is useful enough to keep working on. It looks at whether dust actually goes into the hopper, whether the hopper clogs, whether the system wears out quickly, and whether crews can empty it without hassle. If those basics fail, the project stops.
