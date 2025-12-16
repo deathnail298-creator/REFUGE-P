@@ -1,0 +1,59 @@
+# Executive / Contractor Appendix — DCF
+
+## Purpose
+
+This appendix provides high-level, non-binding estimates relevant to executive decision-makers and contracting organizations. Values are intentionally coarse and are intended only to support early planning and prioritization discussions.
+
+All figures assume continuation beyond Phase 1 and do not imply commitment, readiness, or authorization to proceed.
+
+## Phase 1 to Commercialization — Cost Estimate
+
+**Estimated total cost from completion of Phase 1 to initial commercial availability:**
+
+**USD $1.5M – $3.0M**
+
+This estimate assumes:
+
+* Incremental refinement of passive geometry only
+* No active systems, software development, or autonomy
+* Limited qualification testing appropriate to passive surface infrastructure
+* Low-rate initial fabrication
+
+No cost breakdown is provided at this stage.
+
+## Phase 1 to Commercialization — Schedule Estimate
+
+**Estimated time from completion of Phase 1 to initial commercial availability:**
+
+**18 – 30 months**
+
+This estimate assumes:
+
+* No fundamental redesign required after Phase 1
+* Standard iteration cycles for passive hardware
+* Access to representative test environments without extended queue delays
+
+No schedule breakdown is provided.
+
+## Unit Price Estimate (Fabricated Hardware)
+
+**Estimated price per fabricated DCF unit (low-rate production):**
+
+**USD $75,000 – $150,000 per unit**
+
+This estimate assumes:
+
+* Rugged, abrasion-tolerant materials
+* No embedded electronics or powered subsystems
+* Manual servicing model
+* Low to moderate production volumes
+
+Pricing excludes integration, deployment, or downstream system costs.
+
+## Commercial Boundary
+
+Use of DCF designs for fabrication, testing, deployment, or proposal activity requires a separate commercial license. Reference and internal review use are permitted under the repository license.
+
+## Plain-English Summary
+
+Moving from Phase 1 testing to a sellable version of this system would likely take a couple of years and a few million dollars. Each finished unit would be relatively expensive compared to simple hardware, but far cheaper than active or automated dust systems. These numbers are rough planning figures, not commitments or detailed budgets.
