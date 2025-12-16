@@ -1,0 +1,98 @@
+REFUGE-P License (Phase 0 / Phase 1)
+1. Scope of License
+
+This repository documents the REFUGE-P (Hard Stop) system at Phase 0 and Phase 1 only. The contents are provided for review, evaluation, study, and internal discussion.
+
+This license governs all text, diagrams, figures, concepts, architectures, and system definitions contained in this repository.
+
+2. Permitted Uses (Free)
+
+The following uses are permitted without fee:
+
+Reading, reviewing, and evaluating the material
+
+Internal discussion, critique, and analysis
+
+Educational or academic reference
+
+Non-commercial concept comparison
+
+Internal feasibility assessment by government agencies or contractors
+
+No permission is granted beyond these uses.
+
+3. Prohibited Uses Without a Commercial License
+
+The following actions are explicitly prohibited without a separate, paid license agreement:
+
+Physical construction or fabrication of any REFUGE-P-derived system
+
+Prototype development beyond internal thought experiments
+
+Incorporation into proposals, bids, or funded programs
+
+Inclusion in commercial products, services, or offerings
+
+Derivative works intended for execution, testing, or deployment
+
+Submission of this material as part of SBIRs, NIACs, or similar funding vehicles
+
+Reading is free. Execution is not.
+
+4. Commercial / Execution License Requirement
+
+Any intent to build, test, prototype, integrate, or deploy a system derived from this repository requires a separate commercial execution license prior to execution.
+
+Licensing terms are negotiated separately and may include:
+
+One-time license fees
+
+Program-specific rights
+
+Attribution and disclosure terms
+
+No rights are implied by silence or omission.
+
+5. Government Use
+
+U.S. Government agencies may review and evaluate this material under internal use only. Execution, prototyping, or programmatic incorporation by or on behalf of a government entity requires a separate execution license.
+
+6. No Warranty
+
+This material is provided “as is”, without warranty of any kind, express or implied.
+
+No claim is made regarding:
+
+Safety
+
+Performance
+
+Fitness for purpose
+
+Regulatory approval
+
+Mission suitability
+
+Use of this material is at the user’s own risk.
+
+7. No Endorsement or Obligation
+
+Publication of this repository:
+
+Does not constitute an offer to license
+
+Does not obligate the author to provide support
+
+Does not imply availability for consultation or contracting
+
+All engagements are opt-in and separately negotiated.
+
+8. Retained Rights
+
+All rights not explicitly granted are reserved by the author.
+
+Unauthorized execution or commercialization constitutes infringement.
+
+9. Contact
+
+Licensing inquiries should be directed through the repository’s listed contact or owner.
