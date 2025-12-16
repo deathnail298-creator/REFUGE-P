@@ -1,0 +1,118 @@
+# REFUGE-P (Hard Stop)
+## Phase 0 — Success Criteria
+
+### Purpose
+
+This section defines the explicit criteria under which REFUGE-P is considered valid to proceed into Phase 1 testing. These criteria are intentionally binary and conservative. Meeting them grants permission to test; failure to meet any criterion halts progression.
+
+Phase 0 success does not imply operational readiness, flight suitability, or crew safety guarantees.
+
+---
+
+## Phase 0 Success Criteria
+
+REFUGE-P is considered to have successfully completed Phase 0 if all of the following criteria are met.
+
+---
+
+### 1. Mission Clarity
+
+- The system is unambiguously defined as a time-limited emergency refuge  
+- The 2–4 hour decision-buffer role is explicit and bounded  
+- Prolonged occupancy is clearly identified as misuse or failure  
+
+**Pass condition:**  
+No reasonable interpretation allows REFUGE-P to be treated as a habitat or endurance system.
+
+---
+
+### 2. Scope Discipline
+
+- System ownership boundaries are explicitly defined  
+- Life support, power, thermal control, rescue operations, and delivery systems are excluded  
+- No Phase 2 or later capabilities are implied  
+
+**Pass condition:**  
+REFUGE-P cannot be reasonably interpreted as mission-critical infrastructure.
+
+---
+
+### 3. Architectural Plausibility
+
+- A passive subsurface refuge architecture is defined  
+- No reliance exists on active systems, precision emplacement, or post-deployment assembly  
+- The architecture remains conceptually viable under degraded emplacement conditions  
+
+**Pass condition:**  
+The architecture is credible using existing engineering principles and materials.
+
+---
+
+### 4. Failure Tolerance Definition
+
+- Acceptable and unacceptable failure modes are explicitly stated  
+- Degraded-but-usable behavior is allowed and defined  
+- Hard failure boundaries are unambiguous  
+
+**Pass condition:**  
+It is clear when REFUGE-P is functioning and when it has failed.
+
+---
+
+### 5. Assumption Transparency
+
+- Crew state, environment, deployment, and time-window assumptions are documented  
+- Phase 1 testing relevance is dependent on these assumptions  
+- No hidden dependencies or implied requirements exist  
+
+**Pass condition:**  
+Phase 1 testing can be designed without uncovering new foundational assumptions.
+
+---
+
+### 6. Misuse Resistance
+
+- Language explicitly prevents interpretation as a shelter or fallback habitat  
+- Continued occupancy is framed as failure or misuse  
+- No comfort, endurance, or survivability extension is implied  
+
+**Pass condition:**  
+The system resists reinterpretation beyond its intended role.
+
+---
+
+### 7. Domain Generality
+
+- Applicability to airless or near-airless environments is stated  
+- No environment-specific optimization is required in Phase 0  
+
+**Pass condition:**  
+The concept is not artificially constrained to a single celestial body.
+
+---
+
+## Phase 0 Exit Decision
+
+Phase 0 is considered complete when all success criteria above are met and documented.
+
+Completion of Phase 0 grants permission to:
+- Define bounded prototypes  
+- Design Phase 1 tests  
+- Empirically evaluate survivability, access, and degraded usability  
+
+Completion of Phase 0 does not grant permission to:
+- Claim mission readiness  
+- Expand system scope  
+- Add endurance, comfort, or mission-support features  
+
+---
+
+## Phase 0 Completion Statement
+
+REFUGE-P completes Phase 0 when it is demonstrably bounded, internally consistent, and testable without scope expansion.
+
+---
+
+### Plain-English Summary
+
+REFUGE-P passes Phase 0 if it is clearly defined as a short-term emergency refuge and cannot be mistaken for a habitat or long-term shelter. The design must make sense using existing engineering approaches and clearly state when it works and when it fails. If these conditions are met, limited testing is allowed, but no operational claims are made.
