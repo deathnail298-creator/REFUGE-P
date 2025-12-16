@@ -1,0 +1,106 @@
+# REFUGE-P (Hard Stop)
+## Phase 0 — Assumptions
+
+### Purpose
+
+This section documents the explicit assumptions under which REFUGE-P is defined, evaluated, and validated in Phase 0 and Phase 1. These assumptions bound system scope, prevent implicit requirements, and ensure that downstream testing reflects the intended emergency-use context.
+
+Scenarios that violate these assumptions are outside Phase 0 and Phase 1 scope and are not considered system failures.
+
+---
+
+## Crew Assumptions
+
+- Crew are fully suited prior to entering REFUGE-P  
+- Crew suits provide all required life-support, thermal regulation, power, and communications  
+- Crew are trained for emergency response under degraded conditions  
+- Crew are capable of basic physical actions under stress, including entry, stabilization, and exit  
+
+REFUGE-P does not support unsuited crew and does not initiate suit-up procedures.
+
+---
+
+## Time Assumptions
+
+- REFUGE-P is intended to support 2–4 hours of emergency occupancy  
+- This window represents a decision and coordination period only  
+- Prolonged occupancy beyond this window is neither assumed nor required  
+
+Any scenario requiring survival beyond the defined window is treated as a mission-level failure, not a REFUGE-P deficiency.
+
+---
+
+## Mission State Assumptions
+
+- A catastrophic system failure has already occurred  
+- Normal operations are suspended  
+- Mission posture is abort, evacuate, or recover  
+- Use of REFUGE-P is rare, exceptional, and non-nominal  
+
+REFUGE-P is not planned into routine mission timelines.
+
+---
+
+## Deployment and Emplacement Assumptions
+
+- REFUGE-P is pre-emplaced prior to crewed operations  
+- Emplacement is performed via uncrewed kinetic penetrator delivery  
+- Emplacement accuracy is imperfect and not guaranteed  
+- Structural damage during emplacement is expected  
+
+Human-assisted emplacement or on-demand deployment during emergencies is not assumed.
+
+---
+
+## Environmental Assumptions
+
+- Operational environments are airless or near-airless extraterrestrial bodies  
+- Subsurface emplacement provides meaningful shielding from:
+  - Radiation  
+  - Thermal extremes  
+  - Micrometeoroids  
+  - Surface debris and hazards  
+
+No Phase 0 or Phase 1 claims are made regarding atmospheric pressure management, active thermal control, or environment-specific optimization.
+
+---
+
+## Terrain and Geology Assumptions
+
+- Surface and subsurface conditions are variable and non-ideal  
+- Localized collapse, regolith flow, or debris intrusion is possible  
+- Large voids, lava tubes, or engineered underground spaces are not assumed  
+
+REFUGE-P does not rely on favorable geology to function.
+
+---
+
+## Access Assumptions
+
+- At least one access path remains physically reachable after emplacement and failure  
+- Crew may need to clear minor obstructions using hand tools  
+- Entry and exit may require significant physical effort  
+
+Ease of access is not guaranteed. Achievable access is the requirement.
+
+---
+
+## External Systems Assumptions
+
+- Communications are provided by crew suits and/or external assets  
+- Rescue, evacuation, and recovery systems are external to REFUGE-P  
+- Mission control retains decision authority  
+
+REFUGE-P does not coordinate or manage rescue operations.
+
+---
+
+## Assumption Enforcement
+
+Phase 0 and Phase 1 validation activities are meaningful only if these assumptions hold. Violations require explicit scope escalation rather than reinterpretation of results.
+
+---
+
+### Plain-English Summary
+
+REFUGE-P assumes astronauts are already in suits, have working life-support and communications, and are dealing with a serious emergency. The system is meant to be used for only a few hours after something has failed, not as part of normal operations. If conditions fall outside these assumptions, the situation is beyond what REFUGE-P is designed to handle.
