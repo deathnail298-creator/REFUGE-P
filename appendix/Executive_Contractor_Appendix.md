@@ -12,7 +12,7 @@ No breakdowns are provided by design.
 ## Phase 1 to Commercialization Cost
 
 **Estimated Cost:**  
-$25M – $40M (USD)
+$20M – $35M
 
 This estimate represents the total additional investment required to progress from completed Phase 1 validation through a fieldable, mission-ready system, including engineering maturation, qualification testing, and production readiness.
 
@@ -21,7 +21,7 @@ This estimate represents the total additional investment required to progress fr
 ## Phase 1 to Commercialization Time
 
 **Estimated Time:**  
-5–8 years
+2–4 years
 
 This estimate reflects conservative aerospace development timelines under safety-critical constraints and assumes no extraordinary schedule acceleration.
 
@@ -30,7 +30,7 @@ This estimate reflects conservative aerospace development timelines under safety
 ## Estimated Price per Fabricated Unit
 
 **Estimated Unit Cost:**  
-$2M – $4M (USD per unit)
+$2M – $4M per unit
 
 This estimate reflects low-rate production of a passive, single-use emergency infrastructure asset and does not assume mass production economies of scale.
 
