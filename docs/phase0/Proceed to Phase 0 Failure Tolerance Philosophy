@@ -1,0 +1,106 @@
+# REFUGE-P (Hard Stop)
+## Phase 0 — Failure Tolerance Philosophy
+
+### Purpose
+
+This section defines the damage, degradation, and abnormal conditions that REFUGE-P is explicitly designed to tolerate while still being considered functional. The intent is to align expectations with emergency-use reality and to prevent assumptions of pristine or nominal performance.
+
+REFUGE-P is expected to be damaged. Continued usability under damage is a core design requirement.
+
+---
+
+## Core Failure Philosophy
+
+REFUGE-P follows a degraded-but-usable philosophy.
+
+The system is not required to remain upright, intact, comfortable, or fully accessible. It is only required to preserve a minimum survivable internal void volume and achievable crew access long enough to fulfill its 2–4 hour emergency decision-buffer role.
+
+Failure tolerance is achieved through passive robustness rather than redundancy, active control, or correction mechanisms.
+
+---
+
+## Accepted Damage and Degradation Modes
+
+REFUGE-P may remain functional under the following conditions:
+
+### Structural Degradation
+- External denting, buckling, or localized yielding  
+- Loss of non-critical external material  
+- Internal deformation that reduces usable volume without eliminating it  
+
+### Emplacement Imperfection
+- Off-nominal penetration depth  
+- Significant tilt relative to vertical  
+- Partial or asymmetric burial  
+- Localized regolith or debris collapse  
+
+### Access Degradation
+- Increased force or effort required to gain entry  
+- Reduced ease of exit due to deformation or burial  
+- Partial obstruction that can be cleared by suited crew using hand tools  
+
+### Environmental Exposure
+- Extreme thermal gradients  
+- Radiation levels consistent with subsurface shielding assumptions  
+- Continued presence of surface hazards  
+
+These conditions are treated as expected, not exceptional.
+
+---
+
+## Explicitly Unacceptable Failure Modes
+
+REFUGE-P is considered failed if any of the following occur:
+
+- Total loss of crew access to the internal volume  
+- Collapse or deformation eliminating minimum survivable void space  
+- Structural instability that risks progressive collapse during occupancy  
+- Conditions requiring crew survival to depend on occupancy beyond the 2–4 hour design window  
+
+These represent hard failure boundaries.
+
+---
+
+## Single-Point Failure Policy
+
+REFUGE-P intentionally avoids single-point functional failures.
+
+Accordingly:
+- No active systems are required for protection  
+- No powered actuation is required for access  
+- No deployable structures are required post-emplacement  
+- No software or control logic gates system function  
+
+Any component that exists is assumed capable of failure and must fail benignly.
+
+---
+
+## Human-Centric Failure Acceptance
+
+REFUGE-P assumes crew are operating under stress, with limited visibility and reduced dexterity. The system does not attempt to mitigate discomfort or disorientation beyond providing physical survival space.
+
+Crew inconvenience is acceptable. Crew survival is the metric.
+
+---
+
+## Failure Versus Misuse
+
+Prolonged occupancy, reliance on REFUGE-P for mission continuation, or use as a waiting shelter is considered misuse outside design intent, not a failure of the system.
+
+REFUGE-P fails only when it cannot:
+1. Be entered  
+2. Preserve minimum usable internal volume  
+3. Support short-duration suited occupancy  
+4. Be exited for evacuation or recovery  
+
+---
+
+## Failure Philosophy Summary
+
+REFUGE-P is successful if it works once, while damaged, under stress, and without assistance. Anything beyond that is out of scope.
+
+---
+
+### Plain-English Summary
+
+REFUGE-P is designed to still work even if it is bent, buried, or damaged when it is placed in the ground. It only needs to keep a small space usable and reachable for a short time, not remain intact or comfortable. If people have to stay inside for long periods or cannot safely enter or exit, the system is considered failed.
