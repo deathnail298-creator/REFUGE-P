@@ -1,0 +1,114 @@
+# REFUGE-P (Hard Stop)
+## Phase 0 — Concept of Operations (ConOps)
+
+### Overview
+
+This Concept of Operations defines the intended emergency-use sequence for REFUGE-P following catastrophic failure of a primary surface or habitat system. The sequence is linear, time-bounded, and explicitly abort-focused. REFUGE-P is not incorporated into nominal mission operations and is not planned for routine use.
+
+REFUGE-P is only entered after a failure state has already occurred.
+
+---
+
+## 1. Trigger Conditions
+
+REFUGE-P is accessed following catastrophic or escalating failure events that render continued use of a primary system unsafe or untenable.
+
+Representative trigger conditions include:
+- Rapid or unrecoverable habitat depressurization  
+- Fire, toxic release, or internal contamination  
+- Structural failure or impact damage  
+- Loss of thermal control beyond recovery limits  
+- External hazards preventing safe surface operations  
+- Any failure forcing an immediate abort posture  
+
+Trigger detection, alarm generation, and abort authority are external to REFUGE-P.
+
+---
+
+## 2. Crew State Assumptions
+
+At the time of REFUGE-P entry:
+- Crew are fully suited  
+- Crew are operating under emergency timelines  
+- Crew comfort and productivity are not priorities  
+- Survival long enough to decide and act is the sole objective  
+
+REFUGE-P does not initiate suit-up or preparation procedures.
+
+---
+
+## 3. Transit to REFUGE-P
+
+Upon abort declaration:
+- Crew traverse to the nearest available REFUGE-P unit  
+- Transit distance and routing are mission-defined externally  
+- No navigation, guidance, or powered assistance is provided by REFUGE-P  
+
+Transit is assumed to be short-duration and high-stress. Failure to reach REFUGE-P is outside its scope.
+
+---
+
+## 4. Entry and Stabilization
+
+Upon arrival:
+- Crew access the refuge through the primary entry interface  
+- Crew enter the subsurface void volume  
+- Internal handholds or tie points may be used to stabilize position  
+
+REFUGE-P provides passive protection only. No active systems are required to initiate protection.
+
+Partial burial, tilt, or structural deformation does not preclude use provided minimum access and internal volume remain available.
+
+---
+
+## 5. Decision Window (2–4 Hours)
+
+Once inside:
+- Crew establish communications using suit systems  
+- Crew assess failure severity and mission state  
+- Evacuation, rescue, or recovery options are evaluated  
+- Decisions are coordinated with mission control or support assets  
+
+This 2–4 hour window constitutes the entire intended use of REFUGE-P. The system does not support waiting for conditions to improve or resumption of operations.
+
+---
+
+## 6. Exit, Recovery, or Abandonment
+
+Following decision-making:
+- Crew exit REFUGE-P to execute evacuation or recovery procedures  
+- REFUGE-P may be abandoned permanently after use  
+- No reuse, refurbishment, or reoccupation is assumed  
+
+Successful use concludes when the crew exits alive and able to proceed with recovery actions.
+
+---
+
+## 7. Degraded Use and Failure Handling
+
+REFUGE-P is designed to tolerate degraded conditions, including:
+- Partial burial  
+- Structural denting or deformation  
+- Reduced internal volume  
+- Increased entry or exit effort  
+
+REFUGE-P is considered failed if:
+- Access cannot be achieved  
+- Usable internal volume is lost  
+- Continued occupancy is required beyond the defined time window  
+
+Extended occupancy is treated as a failure condition, not an alternate mode.
+
+---
+
+## 8. ConOps Boundary Statement
+
+REFUGE-P does not alter mission timelines, risk posture, or crew operating assumptions. It exists solely as a last-resort buffer between system failure and evacuation.
+
+REFUGE-P is not a place to remain. It is a place to stop, decide, and leave.
+
+---
+
+### Plain-English Summary
+
+REFUGE-P is used only after something has already gone seriously wrong and normal operations have stopped. Astronauts in suits move to it, enter, communicate, and decide how to evacuate or be rescued within a few hours. Once a decision is made, they leave, and the refuge is not intended to be used again.
