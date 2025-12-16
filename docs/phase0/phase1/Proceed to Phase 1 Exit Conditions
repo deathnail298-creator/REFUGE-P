@@ -1,0 +1,110 @@
+# REFUGE-P (Hard Stop)
+## Phase 1 — Exit Conditions
+
+### Purpose
+
+This section defines the explicit conditions under which Phase 1 is considered complete. Exit conditions establish whether REFUGE-P may proceed to further development, must be revised, or should be terminated.
+
+Phase 1 exit is a decision point, not a graduation.
+
+---
+
+## Phase 1 Exit Conditions
+
+Phase 1 is considered complete when all applicable criteria below are met or conclusively disproven.
+
+---
+
+### 1. Structural Survivability Bounded
+
+- Representative testing demonstrates deformation modes that preserve a minimum usable internal void volume  
+- Collapse thresholds and instability conditions are identified  
+- Structural behavior under damage is predictable within conservative bounds  
+
+**Exit condition:**  
+It is clear when the refuge works structurally and when it does not.
+
+---
+
+### 2. Access Achievability Determined
+
+- Suited crew can physically enter and exit the refuge under representative degraded conditions, or  
+- Access failure thresholds are conclusively identified  
+
+**Exit condition:**  
+Entry and exit feasibility is demonstrated or definitively ruled out within Phase 0 assumptions.
+
+---
+
+### 3. Short-Duration Occupancy Validated
+
+- Suited crew can physically occupy the refuge long enough to perform emergency decision-making tasks  
+- Occupancy does not require comfort, endurance aids, or unclaimed subsystems  
+- No condition forces abandonment prior to the 2–4 hour design window  
+
+**Exit condition:**  
+REFUGE-P functions as a decision buffer, not an endurance shelter.
+
+---
+
+### 4. Failure Boundaries Documented
+
+- Clear, test-backed failure thresholds are established for:
+  - Access loss  
+  - Void collapse  
+  - Structural instability  
+
+**Exit condition:**  
+Failure modes are understood rather than speculative.
+
+---
+
+### 5. Assumption Integrity Maintained
+
+- Phase 0 assumptions remain valid throughout testing, or  
+- Any violated assumptions are explicitly documented  
+
+**Exit condition:**  
+Phase 1 results map cleanly back to the defined scope.
+
+---
+
+## Non-Exit Clarifications
+
+Completion of Phase 1 does not imply:
+
+- Operational readiness  
+- Flight qualification  
+- Suitability for specific missions or celestial bodies  
+- Approval for crewed deployment  
+- Endurance beyond the 2–4 hour window  
+
+Any such claims require explicit phase escalation beyond Phase 1.
+
+---
+
+## Phase 1 Outcome Options
+
+At Phase 1 exit, the program must select one of the following outcomes:
+
+1. **Proceed** — Core assumptions validated; concept remains viable  
+2. **Revise** — Concept viable, but assumptions or architecture require adjustment  
+3. **Terminate** — Core assumptions invalidated; concept is not viable  
+
+All three outcomes are considered valid Phase 1 results.
+
+---
+
+## Phase 1 Completion Statement
+
+Phase 1 is complete when REFUGE-P is shown to be either:
+- A bounded, viable emergency decision-buffer system, or  
+- Not viable within its stated constraints  
+
+Ambiguity is not an acceptable outcome.
+
+---
+
+### Plain-English Summary
+
+Phase 1 ends when it is clear whether the refuge can still be entered, briefly used, and exited after damage. The results must clearly show where it works and where it fails, without promising long-term survival or mission use. At that point, the project either moves forward, changes, or stops.
