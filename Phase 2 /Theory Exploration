@@ -1,0 +1,88 @@
+Phase 2 — Theory Exploration
+Status
+
+This repository section contains Phase 2 material for the REFUGE-P (Hard Stop) concept.
+
+Phase 2 is theory exploration only.
+
+No Phase 2 content authorizes, recommends, or implies physical execution, construction, testing, deployment, procurement, simulation, or operational use.
+
+Purpose of Phase 2
+
+Phase 2 exists to explore conceptual extensions, edge-case reasoning, and second-order implications that fall outside the strict bounds of Phase 0 (Permission to Exist) and Phase 1 (Permission to Test).
+
+Specifically, Phase 2 may include:
+
+Thought experiments
+
+Constraint-based reasoning
+
+Hypothetical failure chains
+
+Abstract architectural variants
+
+Comparative reasoning against adjacent concepts
+
+“What-if” exploration that cannot be validated in Phase 1
+
+All Phase 2 work is performed entirely in theory, without claiming feasibility, correctness, or readiness.
+
+What Phase 2 Is Not
+
+Phase 2 is not:
+
+A continuation of Phase 1
+
+A build plan
+
+A test plan
+
+A simulation plan
+
+A roadmap
+
+A prototype definition
+
+A manufacturing concept
+
+A mission proposal
+
+An authorization to act
+
+Phase 2 does not advance Technology Readiness Level (TRL).
+
+Licensing and Execution Restrictions
+
+All Phase 2 materials are governed by a theory-only license that explicitly prohibits execution without a separate execution license, defined in Phase 3.
+
+Reading, discussion, critique, and internal reasoning are permitted.
+
+Any form of execution — including but not limited to building, testing, simulating, modifying hardware, integrating into programs, or using Phase 2 material to justify action — is explicitly prohibited without a separate execution license.
+
+The applicable license is TEL-1.0 (Theory Exploration License).
+
+Relationship to Other Phases
+
+Phase 0 defines mission intent, boundaries, non-claims, and permission to exist.
+
+Phase 1 defines tightly bounded, real-world test permission.
+
+Phase 2 explores ideas that are intentionally not allowed to progress into testing.
+
+Phase 3 is the only phase where execution rights, commercialization, or paid licenses are defined.
+
+Phase separation is intentional and enforced.
+
+Reader Responsibility
+
+Phase 2 content may be incomplete, incorrect, speculative, or invalid.
+
+The reader is responsible for independent evaluation.
+
+Nothing in this section should be treated as guidance, instruction, or endorsement.
+
+Plain-English Summary
+
+This folder contains theory-only exploration that is not allowed to be built or tested.
+It exists to think through ideas, not to act on them.
+If someone wants to execute anything derived from this material, that permission only exists in Phase 3 under a separate license.
